@@ -14,7 +14,7 @@ This program creates and stores a list of abstract datatypes, referred to as Son
 - Clear list of songs
 ---
 ## Usage
-#### Sample File Output from test_tsuPod.cpp
+#### Sample Output from test_tsuPod.cpp
 ```
 Testing Successful Song Addition: 
 Successful song addition for: ABCs
